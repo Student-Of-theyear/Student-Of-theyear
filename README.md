@@ -1,7 +1,7 @@
 ![logo](https://github.com/Student-Of-theyear/Student-Of-theyear/blob/main/Github%20Clone.png)
 <h1 align="center">Hi 👋, I'm Sudhanshu Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding"width="400"src="Developer">
+<img align="right"alt="coding"width="400"src="https://github.com/Student-Of-theyear/Student-Of-theyear/blob/main/gif.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=student-of-theyear&label=Profile%20views&color=0e75b6&style=flat" alt="student-of-theyear"/></p>
 
 - ⚡ Fun fact **I am funny😅**
